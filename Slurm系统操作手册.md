@@ -125,8 +125,3 @@ sbatch test.sh
 tail -f slurm-*.out
 ```
 
----
-
-一句话总结：  
-**登录→写脚本→sbatch→tail 日志→scancel 不爽就删。**
-```
