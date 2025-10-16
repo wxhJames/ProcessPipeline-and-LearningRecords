@@ -125,3 +125,7 @@ sbatch test.sh
 tail -f slurm-*.out
 ```
 
+## 10. tail看运行结果（日志文件）
+```
+tail -f slurm-12345.out
+```
