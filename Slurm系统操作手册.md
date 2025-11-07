@@ -123,5 +123,7 @@ srun python test.py
 ```bash
 sbatch test.sh
 tail -f slurm-*.out
+less slurm-*.out
 ```
+
 
